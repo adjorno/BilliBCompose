@@ -46,5 +46,6 @@ jobs:
           serviceAccountJson: service_account.json
           packageName: com.m14n.billib
           releaseFiles: app/build/outputs/bundle/release/app-release.aab
+          status: completed
           track: internal
           whatsNewDirectory: whatsNewDirectory/
